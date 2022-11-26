@@ -1,9 +1,9 @@
 # bigideasfinalproject
-Group Name: Pretty in Pittsburgh
+Group Name: Pretty in Pittsburgh(PIP)
 Anna Cavanaugh(arc249@pitt.edu)
 Liam Sullivan(lbs57@pitt.edu)
 
-Rating the best neighborhood in pittsburgh based on how aesthetically pleasing it is. 
+Rating the best neighborhood in Pittsburgh based on how aesthetically pleasing it is. 
 
 Data Sets Used:
 Traffic Count:
